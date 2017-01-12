@@ -7,3 +7,5 @@ Built an app, optimized for tablets, to help users discover popular and highly r
 ![alt tag](https://github.com/ruiguo11/PopularMovie/blob/master/Screenshot_2016-09-14-16-06-11.png)
 
 ![alt tag](https://github.com/ruiguo11/PopularMovie/blob/master/Screenshot_2016-09-14-16-06-28.png)
+
+![alt tag](https://github.com/ruiguo11/PopularMovie/blob/master/Screenshot_2016-09-14-16-06-43.png)
